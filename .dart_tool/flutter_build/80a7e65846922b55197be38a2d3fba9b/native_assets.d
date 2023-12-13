@@ -1,0 +1,1 @@
+ E:\\Flutter\ apps\\TaskManagerWithGetX\\.dart_tool\\flutter_build\\80a7e65846922b55197be38a2d3fba9b\\native_assets.yaml: 
